@@ -1,0 +1,87 @@
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\bin\Debug\Android ePUB reader for Xamarin.dll
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\bin\Debug\Android ePUB reader for Xamarin.pdb
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\bin\Debug\Com.Dteviot.EpubViewer.apk
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\bin\Debug\Com.Dteviot.EpubViewer-Signed.apk
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\obj\Debug\Android ePUB reader for Xamarin.csprojResolveAssemblyReference.cache
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\obj\Debug\Android ePUB reader for Xamarin.dll
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\obj\Debug\Android ePUB reader for Xamarin.pdb
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\obj\Debug\android\bin\Com.Dteviot.EpubViewer.apk
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\obj\Debug\res\values\strings.xml
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\obj\Debug\res\drawable\icon.png
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\obj\Debug\res\menu\activity_main.xml
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\obj\Debug\res\layout\epub_list_item.xml
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\obj\Debug\res\layout\options_menu.xml
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\obj\Debug\res\layout\activity_main.xml
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\obj\Debug\R.cs.flag
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\obj\Debug\uploadflags.txt
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\bin\Debug\Android ePUB reader for Xamarin.dll.mdb
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\bin\Debug\Java.Interop.dll.mdb
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\bin\Debug\Mono.Android.dll.mdb
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\bin\Debug\Mono.Android.Export.dll.mdb
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\bin\Debug\mscorlib.dll.mdb
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\bin\Debug\System.ComponentModel.Composition.dll.mdb
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\bin\Debug\System.Core.dll.mdb
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\bin\Debug\System.dll.mdb
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\bin\Debug\System.Net.Http.dll.mdb
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\bin\Debug\System.Runtime.Serialization.dll.mdb
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\bin\Debug\System.ServiceModel.Internals.dll.mdb
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\bin\Debug\System.Xml.dll.mdb
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\bin\Debug\System.Xml.Linq.dll.mdb
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\obj\Debug\android\assets\Android ePUB reader for Xamarin.dll.mdb
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\obj\Debug\android\assets\Java.Interop.dll.mdb
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\obj\Debug\android\assets\Mono.Android.dll.mdb
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\obj\Debug\android\assets\Mono.Android.Export.dll.mdb
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\obj\Debug\android\assets\mscorlib.dll.mdb
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\obj\Debug\android\assets\System.Core.dll.mdb
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\obj\Debug\android\assets\System.dll.mdb
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\obj\Debug\android\assets\System.Net.Http.dll.mdb
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\obj\Debug\android\assets\System.Xml.dll.mdb
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+c:\users\arthur\documents\visual studio 2015\Projects\Android ePUB reader for Xamarin\Android ePUB reader for Xamarin\obj\Debug\Android ePUB reader for Xamarin.dll.mdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\bin\Debug\Android ePUB reader for Xamarin.dll
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\bin\Debug\Android ePUB reader for Xamarin.pdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\bin\Debug\Com.Dteviot.EpubViewer.apk
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\bin\Debug\Com.Dteviot.EpubViewer-Signed.apk
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\obj\Debug\Android ePUB reader for Xamarin.csprojResolveAssemblyReference.cache
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\obj\Debug\Android ePUB reader for Xamarin.dll
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\obj\Debug\Android ePUB reader for Xamarin.pdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\obj\Debug\android\bin\Com.Dteviot.EpubViewer.apk
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\obj\Debug\res\values\strings.xml
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\obj\Debug\res\drawable\icon.png
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\obj\Debug\res\menu\activity_main.xml
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\obj\Debug\res\layout\epub_list_item.xml
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\obj\Debug\res\layout\options_menu.xml
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\obj\Debug\res\layout\activity_main.xml
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\obj\Debug\R.cs.flag
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\obj\Debug\uploadflags.txt
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\bin\Debug\Android ePUB reader for Xamarin.dll.mdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\bin\Debug\Java.Interop.dll.mdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\bin\Debug\Mono.Android.dll.mdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\bin\Debug\Mono.Android.Export.dll.mdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\bin\Debug\mscorlib.dll.mdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\bin\Debug\System.Core.dll.mdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\bin\Debug\System.dll.mdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\bin\Debug\System.Xml.dll.mdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\obj\Debug\android\assets\Android ePUB reader for Xamarin.dll.mdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\obj\Debug\android\assets\Mono.Android.Export.dll.mdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\obj\Debug\android\assets\System.dll.mdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\obj\Debug\Android ePUB reader for Xamarin.dll.mdb
+C:\Users\arthur\Source\Repos\Android-ePUB-reader-for-Xamarin\Android ePUB reader for Xamarin\bin\Debug\Android ePUB reader for Xamarin.dll.mdb
